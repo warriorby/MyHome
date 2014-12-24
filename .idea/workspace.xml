@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/im/testeasemob.php" line="384" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23bfe158-0b65-4620-805c-0a897303e18b" name="Default" comment="MyHome 0.2.0 version add some contents">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/Fixtures/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/avatar/11A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/avatar/13@A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/avatar/13A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/13T_START.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/avatar/1418377366A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/avatar/1418378103778A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418610564887T_START.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418611543129T_END.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418612852887T_START.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/141861289744T_START.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418613137483T_END.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418616293950T_START.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418616334588T_END.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/post/1418629493422P.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418633360908T_START.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/task_pic/1418633596152T_START.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Exception/APIConnectionException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Exception/APIRequestException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/AbstractHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/AbstractLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/AbstractProcessingHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/AmqpHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Audience.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/BOM_del.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/Bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/BrowserConsoleHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/BufferHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/CHANGELOG.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/ChromePHPFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/ChromePHPHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/ClassLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Exception/ConnectionErrorException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/CouchDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/CsvHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/DeviceExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/DeviceExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/DeviceResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/DeviceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/DoctrineCouchDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/DynamoDbHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/ElasticSearchHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/ElasticSearchHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/ErrorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/ErrorLogHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/ExceptionTestHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/FilterHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/FingersCrossedHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Functional/Handler/FirePHPHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/FirePHPHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/FleepHookHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/FlowdockFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/FlowdockHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/FormHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/GitProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GroupHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Response/Headers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/HipChatHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Httpful.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/Httpful/HttpfulTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/IntrospectionProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/InvalidArgumentException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/JPushClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/JPushLog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/JsonHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/LineFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/LogEntriesHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/LogLevel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Logger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/LoggerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/LoggerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/LoggerTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/LogglyFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/LogglyHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/LogstashFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/MailHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/MessageAndroid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/MessageIOS.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/MessageItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/MessageResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Mime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/MimeHandlerAdapter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/MissingExtensionException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/MockRavenClient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/MongoDBHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/NativeMailerHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/NewRelicHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Notification.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/NullHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/Psr/Log/NullLogger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Platform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/ProcessIdProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/PsrLogMessageProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/PushExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/PushExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/PushExample2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/PushPayload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/PushPayloadTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/PushResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/PushTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/PushoverHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/README.mdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/RavenHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/RedisHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/Report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/ReportExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/ReportExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/ReportResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/ReportTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/RotatingFileHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/ScalarFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/SlackHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/SocketHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/StreamHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/SyslogHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdpHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/SyslogUdpHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/TagProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/TestCase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/TestHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/UdpSocketTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/UidProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/src/JPush/Model/UserResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/ValidateExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/ValidateExample.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/ValidateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/WhatFailureGroupHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/WhatFailureGroupHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Formatter/WildfireFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/XHtmlHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/src/Httpful/Handlers/XmlHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/ZendMonitorHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/ZendMonitorHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/doc/api.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/autoload_classmap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/autoload_files.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/autoload_namespaces.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/autoload_psr4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/autoload_real.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/bootstrap-server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/chilren_imReg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/examples/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/psr/log/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/conn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/excel-import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/doc/extending.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/examples/freebase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/fullpush.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/examples/github.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/composer/installed.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/jpush.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task/noType_task_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task/noType_task_end.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/oleread.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/examples/override.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/jpush/jpush/tests/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/phpunit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/push_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/reader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/Httpful/requestTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/examples/showclix.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/doc/sockets.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/space/space_UserEdit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/space/space_UserSchool.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score/subject_add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/score/subject_list.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task/task_award_get.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task/task_end_pic2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task/task_start_pic2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/static/test.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tool/upload_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/push/vendor/monolog/monolog/doc/usage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_addInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_avatar_upload2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/user_intergral.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="DELETED" beforePath="D:\xampp\htdocs\app2\read_me.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/score/score_filter.php" afterPath="$PROJECT_DIR$/score/score_filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/score/score_list.php" afterPath="$PROJECT_DIR$/score/score_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="908f2125-7767-4da3-8e8f-28fb0602ef15" name="提交失败:Default" comment="MyHome 0.2.0 huanxin im rest api test and example">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/Easemob.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/easemob.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/im-group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/im_init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/im_test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/im/testeasemob.php" />
+    </list>
+    <ignored path="app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="subject_list.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/score/subject_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="18" selection-start="113" selection-end="113" vertical-scroll-proportion="-4.516129" vertical-offset="0" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score_list.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/score/score_list.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="42" selection-start="220" selection-end="220" vertical-scroll-proportion="-6.322581" vertical-offset="0" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score_add.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/score/score_add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="110" selection-start="340" selection-end="340" vertical-scroll-proportion="-9.935484" vertical-offset="0" max-vertical-offset="756">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score_filter.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/score/score_filter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.031042129" vertical-offset="0" max-vertical-offset="902">
+              <folding>
+                <marker date="1419400605054" expanded="true" signature="210:314" placeholder="select * fro..score_main..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="score_del.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/score/score_del.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subject_add.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/score/subject_add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="468" selection-end="468" vertical-scroll-proportion="-11.741936" vertical-offset="0" max-vertical-offset="560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xjwan" />
+        <option value="wxj" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/IM/im-group.php" />
+        <option value="$PROJECT_DIR$/tool/oleread.php" />
+        <option value="$PROJECT_DIR$/tool/reader.php" />
+        <option value="$PROJECT_DIR$/user/user_province.php" />
+        <option value="$PROJECT_DIR$/user/user_im_infoDetail.php" />
+        <option value="$PROJECT_DIR$/im/im-group.php" />
+        <option value="$PROJECT_DIR$/user/user_province_city.php" />
+        <option value="$PROJECT_DIR$/user/user_register.php" />
+        <option value="$PROJECT_DIR$/task/task_edit.php" />
+        <option value="$PROJECT_DIR$/user/user_zone_school.php" />
+        <option value="$PROJECT_DIR$/include/connection.php" />
+        <option value="$PROJECT_DIR$/tool/excel-import.php" />
+        <option value="$PROJECT_DIR$/user/children_location_info.php" />
+        <option value="$PROJECT_DIR$/task/task_award_list.php" />
+        <option value="$PROJECT_DIR$/task/task_award_get.php" />
+        <option value="$PROJECT_DIR$/task/task_award_true.php" />
+        <option value="$PROJECT_DIR$/user/user_addInfo.php" />
+        <option value="$PROJECT_DIR$/task/task_start.php" />
+        <option value="$PROJECT_DIR$/task/task_end.php" />
+        <option value="$PROJECT_DIR$/task/noType_task_add.php" />
+        <option value="$PROJECT_DIR$/task/noType_task_end.php" />
+        <option value="$PROJECT_DIR$/task/task_add.php" />
+        <option value="$PROJECT_DIR$/user/user_login.php" />
+        <option value="$PROJECT_DIR$/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" />
+        <option value="$PROJECT_DIR$/push/easy-push.php" />
+        <option value="$PROJECT_DIR$/push/ValidateExample.php" />
+        <option value="$PROJECT_DIR$/task/task_comment.php" />
+        <option value="$PROJECT_DIR$/task/task_nostart_list.php" />
+        <option value="$PROJECT_DIR$/task/task_list.php" />
+        <option value="$PROJECT_DIR$/task/task_giveup.php" />
+        <option value="$PROJECT_DIR$/task/task_completed_detail.php" />
+        <option value="$PROJECT_DIR$/user/user_intergral.php" />
+        <option value="$PROJECT_DIR$/task/task_award_add.php" />
+        <option value="$PROJECT_DIR$/push/fullpush.php" />
+        <option value="$PROJECT_DIR$/push/jpush.log" />
+        <option value="$PROJECT_DIR$/push/PushExample.php" />
+        <option value="$PROJECT_DIR$/push/push_test.php" />
+        <option value="$PROJECT_DIR$/past/time_control.php" />
+        <option value="$PROJECT_DIR$/past/my_reflection.php" />
+        <option value="$PROJECT_DIR$/user/user_im_register.php" />
+        <option value="$PROJECT_DIR$/tool/test.php" />
+        <option value="$PROJECT_DIR$/past/time_allocation.php" />
+        <option value="$PROJECT_DIR$/past/week_efficiency.php" />
+        <option value="$PROJECT_DIR$/past/my_growth.php" />
+        <option value="$PROJECT_DIR$/push/vendor/nategood/httpful/tests/Httpful/requestTest.php" />
+        <option value="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" />
+        <option value="$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/TestCase.php" />
+        <option value="$PROJECT_DIR$/score/subject_add.php" />
+        <option value="$PROJECT_DIR$/score/subject_list.php" />
+        <option value="$PROJECT_DIR$/score/score_list.php" />
+        <option value="$PROJECT_DIR$/score/score_filter.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="localhost" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" port="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="score" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="D:/Git/cmd/git.exe" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="294" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="318" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="990" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="308" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="312" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="983" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\app2\score" />
+      <recent name="D:\xampp\htdocs\app2" />
+      <recent name="D:\xampp\htdocs\app2\push" />
+      <recent name="D:\xampp\htdocs\app2\task" />
+      <recent name="D:\xampp\htdocs\app2\tool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\app2\push" />
+      <recent name="D:\xampp\htdocs\app2\tool" />
+      <recent name="D:\xampp\htdocs\app\user" />
+      <recent name="D:\xampp\htdocs\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.user_login_judge.php">
+    <configuration default="false" name="user_login_judge.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/user/user_login_judge.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.user_login_judge.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.user_login_judge.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\EI\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23bfe158-0b65-4620-805c-0a897303e18b" name="Default" comment="" />
+      <created>1415783505260</created>
+      <updated>1415783505260</updated>
+    </task>
+    <task id="LOCAL-00001" summary="MyHome 0.2.0 version">
+      <created>1419322021479</created>
+      <updated>1419322021479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42708334" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916668" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="MyHome 0.2.0 version" />
+    <MESSAGE value="MyHome 0.2.0 version 新增的一些内容" />
+    <MESSAGE value="MyHome 0.2.0 version add some contents" />
+    <MESSAGE value="MyHome 0.2.0 huanxin im rest api test and example" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyHome 0.2.0 huanxin im rest api test and example" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/im/Easemob.class.php</url>
+          <line>358</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="33" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../thinkphp/Application/Runtime/Logs/Home/14_12_22.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="461" selection-end="461" vertical-scroll-proportion="0.37250555" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task_award_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="21" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task_award_get.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task_award_true.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="784" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="43" selection-start="570" selection-end="570" vertical-scroll-proportion="0.44094488" vertical-offset="84" max-vertical-offset="2800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task_award_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="72" selection-start="431" selection-end="431" vertical-scroll-proportion="0.34146342" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_intergral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="39" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="-6.16129" vertical-offset="257" max-vertical-offset="2884" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="567" selection-end="567" vertical-scroll-proportion="-6.064516" vertical-offset="232" max-vertical-offset="1820" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/composer/ClassLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="278" column="0" selection-start="8416" selection-end="8416" vertical-scroll-proportion="0.33333334" vertical-offset="7372" max-vertical-offset="10752" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/fullpush.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.062084258" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/jpush.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="32" selection-start="21545" selection-end="21545" vertical-scroll-proportion="0.90604025" vertical-offset="3054" max-vertical-offset="4060" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/ReportExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6518847" vertical-offset="588" max-vertical-offset="3724" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/push_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="29" selection-start="2285" selection-end="2285" vertical-scroll-proportion="0.75166297" vertical-offset="610" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/PushExample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="50" selection-start="3159" selection-end="3174" vertical-scroll-proportion="-0.2172949" vertical-offset="2492" max-vertical-offset="4172" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_addInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="69" selection-start="1644" selection-end="1644" vertical-scroll-proportion="0.37915742" vertical-offset="582" max-vertical-offset="1568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/past/my_reflection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="7" selection-start="44" selection-end="44" vertical-scroll-proportion="0.062084258" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="0.52771616" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/avatar/1418378103778A.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/post/1418629493422P.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/past/week_efficiency.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="49" selection-start="1202" selection-end="1202" vertical-scroll-proportion="-18.967741" vertical-offset="168" max-vertical-offset="1176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/past/my_growth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="45" selection-start="561" selection-end="561" vertical-scroll-proportion="-13.548388" vertical-offset="0" max-vertical-offset="980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="0.2784553" vertical-offset="3" max-vertical-offset="2576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="281" selection-end="281" vertical-scroll-proportion="0.34146342" vertical-offset="0" max-vertical-offset="3304" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="296" selection-end="296" vertical-scroll-proportion="0.35365853" vertical-offset="22" max-vertical-offset="1988" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="8" selection-start="292" selection-end="292" vertical-scroll-proportion="0.33333334" vertical-offset="32" max-vertical-offset="2464" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/tests/Monolog/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="22" selection-start="1272" selection-end="1272" vertical-scroll-proportion="0.33333334" vertical-offset="928" max-vertical-offset="1596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="290" selection-end="290" vertical-scroll-proportion="0.35365853" vertical-offset="22" max-vertical-offset="2800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/push/vendor/nategood/httpful/tests/Httpful/requestTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="51" selection-start="219" selection-end="219" vertical-scroll-proportion="0.33333334" vertical-offset="88" max-vertical-offset="700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/past/time_allocation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.37007874" vertical-offset="1379" max-vertical-offset="2268">
+          <folding>
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+            <marker date="1419314409958" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/past/time_control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="149" selection-start="193" selection-end="261" vertical-scroll-proportion="0.18625277" vertical-offset="0" max-vertical-offset="902">
+          <folding>
+            <marker date="1419301236211" expanded="true" signature="-1:-1" placeholder="select * fro..task_main..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_login_judge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="32" selection-start="757" selection-end="757" vertical-scroll-proportion="-18.064516" vertical-offset="0" max-vertical-offset="980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_zone_school.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="31" selection-start="3547" selection-end="3547" vertical-scroll-proportion="1.3228346" vertical-offset="588" max-vertical-offset="2072">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_im_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/children_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/children_location_info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/send_sms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_balance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_im_register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="55" selection-start="559" selection-end="559" vertical-scroll-proportion="-15.548388" vertical-offset="50" max-vertical-offset="1372">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.15521064" vertical-offset="0" max-vertical-offset="902">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_avatar_upload2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/subject_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="468" selection-end="468" vertical-scroll-proportion="-11.741936" vertical-offset="0" max-vertical-offset="560">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/subject_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="113" selection-end="113" vertical-scroll-proportion="-4.516129" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/score_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="42" selection-start="220" selection-end="220" vertical-scroll-proportion="-6.322581" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/score_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="110" selection-start="340" selection-end="340" vertical-scroll-proportion="-9.935484" vertical-offset="0" max-vertical-offset="756">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/score_del.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score/score_filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.031042129" vertical-offset="0" max-vertical-offset="902">
+          <folding>
+            <marker date="1419400605054" expanded="true" signature="210:314" placeholder="select * fro..score_main..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
